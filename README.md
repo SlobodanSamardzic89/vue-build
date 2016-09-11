@@ -8,7 +8,8 @@ This boilerplate is to help you setup a Vue build system from scratch so that yo
  
 ## Directory Structure 
 
-Before running `npm install` you'll see the following.
+Before running `npm install` you'll see the following:
+```
  .
  ├── LICENSE
  ├── README.md
@@ -19,6 +20,8 @@ Before running `npm install` you'll see the following.
  │   ├── app.vue
  │   └── main.js
  └── webpack.config.js
+ 
+```
  
 ##What's Included
  
