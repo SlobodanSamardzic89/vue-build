@@ -6,14 +6,14 @@ This boilerplate is to help you setup a Vue build system from scratch so that yo
  
  This one is just barebones, you get to add in your tests, minification et al.
  
- ## What's Included
+##What's Included
  
  * Vue js
  * Webpack
  * Vue Loader
  * Hot Reload
  
- ## Usage
+##Usage
  
  ```
  npm install -g webpack 
