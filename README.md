@@ -22,6 +22,8 @@ Before running `npm install` you'll see the following:
  └── webpack.config.js
  
 ```
+
+Look out for `dist/build.js` after running the `$ webpack` command.
  
 ##What's Included
  
@@ -44,5 +46,5 @@ $ webpack
 $ webpack-dev-server --inline --hot 
 ```
 
-That's it, play around with 
+That's it, play around with it, make it your own by adding whatever else your project needs.
  
