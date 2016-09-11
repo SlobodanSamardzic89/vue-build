@@ -6,6 +6,20 @@ This boilerplate is to help you setup a Vue build system from scratch so that yo
  
  This one is just barebones, you get to add in your tests, minification et al.
  
+## Directory Structure 
+
+Before running `npm install` you'll see the following.
+ .
+ ├── LICENSE
+ ├── README.md
+ ├── dist
+ ├── index.html
+ ├── package.json
+ ├── src
+ │   ├── app.vue
+ │   └── main.js
+ └── webpack.config.js
+ 
 ##What's Included
  
  * Vue js
@@ -13,12 +27,19 @@ This boilerplate is to help you setup a Vue build system from scratch so that yo
  * Vue Loader
  * Hot Reload
  
-##Usage
+##Installation
  
- ```
- npm install -g webpack 
- npm install -g webpack-dev-server
- npm install
- ```
+```
+$ npm install -g webpack 
+$ npm install -g webpack-dev-server
+$ npm install
+```
+ ##Usage
  
+```
+$ webpack 
+$ webpack-dev-server --inline --hot 
+```
+
+That's it, play around with 
  
