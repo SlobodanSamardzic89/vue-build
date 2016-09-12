@@ -23,7 +23,7 @@ Before running `npm install` you'll see the following:
  
 ```
 
-Look out for `dist/build.js` after running the `$ webpack` command.
+Make sure to look out for `dist/build.js` after running the `$ webpack` command.
  
 ##What's Included
  
